@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "212393147620",
+    "project_id": "practicacrud-c5081",
+    "storage_bucket": "practicacrud-c5081.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212393147620:android:9acb062ed663e4b67c80f1",
+        "android_client_info": {
+          "package_name": "com.example.practicacrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3BLehdYBdpi7Uw5mbSbt93YRtu6UOAhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
